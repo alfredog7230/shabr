@@ -22,3 +22,10 @@ html,
         url('hot-air-ballon-clip') no-repeat center;
         background-size: cover;
     }
+    
+    .button{
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        
+        }
