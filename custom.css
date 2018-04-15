@@ -22,6 +22,7 @@ html,
         url('hot-air-ballon-clip') no-repeat center;
         background-size: cover;
     }
+
     #footer{
         margin-bottom:0px;
         display:block;
@@ -35,6 +36,113 @@ html,
   overflow-y: hidden;
   white-space: nowrap;
 }
-  .card {
+  .parallax1 {
     display: inline-block;
+    
+    background-image: url("img/balloon-1.jpg");
+
+    /* Set a specific height */
+     
+    height:914px;
+    width:100%;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
   }
+  
+  .parallax2 {
+    display: inline-block;
+    
+    background-image: url("img/balloon-2.jpg");
+
+    /* Set a specific height */
+     height:914px;
+     width:100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .parallax3 {
+    display: inline-block;
+    
+    background-image: url("img/balloon-3.jpg");
+
+    /* Set a specific height */
+     height:914px;
+     width:100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .parallax4 {
+    display: inline-block;
+    
+    background-image: url("img/balloon-4.jpg");
+
+    /* Set a specific height */
+     height:914px;
+     width:100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .parallax5 {
+    display: inline-block;
+    
+    background-image: url("img/balloon-5.jpg");
+
+    /* Set a specific height */
+     height:914px;
+     width:100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  .parallax6 {
+    display: inline-block;
+    
+    background-image: url("img/balloon-6.jpg");
+
+    /* Set a specific height */
+     height:914px;
+     width:100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+    
+    .button{
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        
+        }
+
