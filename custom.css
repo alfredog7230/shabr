@@ -143,6 +143,11 @@ html,
         position: fixed;
         bottom: 20px;
         right: 30px;
+        border-radius: 20px;
+        border: solid #c4000d;
+        text-decoration:none;
+        color:#c4000d;
+        background-color:black;
         
         }
 
