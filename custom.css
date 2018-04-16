@@ -9,7 +9,7 @@ html,
         text-align: center;
         vertical-align: middle;
         display: table-cell;
-        color: magenta;
+        color: purple;
     }
     
      .landing {
@@ -149,5 +149,15 @@ html,
         color:#c4000d;
         background-color:black;
         
-        }
+    }
+.text-center{
+    text-shadow: 2px 2px #036cc7;
+    color: #0b9401
+    }    
 
+h2{
+    text-shadow: 2px 2px orange;
+    color: #1707a3
+    }
+
+    
