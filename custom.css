@@ -163,18 +163,41 @@ h2{
 #home{
     font-family: Farsan;
     font-size: 20px;
+     
+        padding-bottom:20px;
+       
+    }
+    #subhome{
+         color:white;
+        background-color:black;
     }
 #info{
     font-family: Farsan;
     font-size: 20px;
+     
+        padding-bottom:20px;
+        
+    }
+    #subinfo{
+         color:white;
+        background-color:black;
     }
 #testimonials{
     font-family: Farsan;
     font-size: 20px;
+     
+        padding-bottom:20px;
+        
+    }
+    #subtest{
+         color:white;
+        background-color:black;
     }
 #contact{
     font-family: Farsan;
     font-size: 20px;
+    
+        padding-bottom:20px;
     }
     #img-container{
         padding-top:20px;
@@ -188,4 +211,12 @@ h2{
     background-color:black;
     padding-bottom: 20px;
     padding-top:20px;
+}
+@media(min-width:768px) {
+.landing h1 {
+   font-size:50px; 
+}
+.landing h3 {
+    font-size:35px;
+}
 }
